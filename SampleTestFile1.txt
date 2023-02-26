@@ -2,3 +2,4 @@ This is Sample File 1
 
 Testo aggiunto al file 1
 This is Comparion lecture
+This is Stash lecture, Change in File 1
